@@ -1,2 +1,6 @@
+
 Hello, I am learning Git and GitHub!"
 This is Katie, adding a "Contact" section to your Bio.
+Contact:
+Email: Example@Example.com
+Phone: 111-222-3334
